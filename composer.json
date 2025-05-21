@@ -1,0 +1,20 @@
+{
+    "name": "thungdemo/sms",
+    "description": "Sms library with support for multiple sms providers",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thungdemo Ezong",
+            "email": "tezongthungdemo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thungdemo\\Sms\\": "src/"
+        }
+    }
+}
