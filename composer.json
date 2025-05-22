@@ -5,7 +5,7 @@
     "authors": [
         {
             "name": "Thungdemo Ezong",
-            "email": "tezongthungdemo@gmail.com"
+            "email": "ezongthungdemo@gmail.com"
         }
     ],
     "require": {
@@ -16,5 +16,6 @@
         "psr-4": {
             "Thungdemo\\Sms\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
